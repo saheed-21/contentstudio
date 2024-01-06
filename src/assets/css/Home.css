@@ -1,0 +1,49 @@
+.home{
+    
+      color: black;
+    
+}
+.m1{
+      position: relative;
+      right: 35px;
+      bottom: 12px;
+}
+.m2{
+position: relative;
+right:35px;
+bottom: 12px;
+}
+.m3{
+position: relative;
+right:35px;
+bottom: 12px;
+}
+.m4{
+position: relative;
+right:35px;
+bottom: 12px;
+}
+.m5{
+position: relative;
+right:35px;
+bottom: 12px;
+}
+.log{
+      background-repeat: no-repeat;
+}
+.m6{
+      position: relative;
+      top: 75px;
+}
+.m7{
+      float: right;
+      height: 580px;
+      width: 690px;
+      position: relative;
+
+}
+/* .m7{
+      float: 100%;;
+      position: relative;
+
+}  */
